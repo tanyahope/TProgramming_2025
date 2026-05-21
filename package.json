@@ -1,0 +1,15 @@
+{
+  "name": "tprogramming-2025",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "task1": "tsx task1/main.ts",
+    "task3": "tsx task3/main.ts",
+    "task4": "tsx task4/main.ts",
+    "task5": "tsx task5/main.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
